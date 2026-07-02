@@ -1,0 +1,6 @@
+// socket.io
+on = event listen krna
+emit = event fire karna
+
+built in events...
+custom events...
